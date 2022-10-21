@@ -3,12 +3,17 @@
   "version": "1.0.0",
   "description": "Facebook Messenger Tool",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Michael Maxwell",
   "license": "ISC",
   "dependencies": {
-    "commander": "^9.4.1"
+    "commander": "^9.4.1",
+    "fuzzy": "^0.1.3",
+    "inquirer": "^9.1.4",
+    "inquirer-autocomplete-prompt": "^3.0.0",
+    "utf8": "^3.0.0"
   }
 }
