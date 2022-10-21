@@ -1,0 +1,14 @@
+{
+  "name": "shoot-the-messenger",
+  "version": "1.0.0",
+  "description": "Facebook Messenger Tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Maxwell",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^9.4.1"
+  }
+}
